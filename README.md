@@ -18,18 +18,23 @@ Quant Research (IMC Competitions)
 
 [Signal development using momentum, order book imbalance, and fair value modeling](https://github.com/BearcatJones1999)
 
-🔬 Research Interests
+**🔬 Research Interests**
+
 Causal Econometrics (treatment effects, identification, policy analysis)
+
 Healthcare Analytics & Productivity Modeling
+
 Time Series & Financial Econometrics
+
 Market Microstructure & Signal Extraction
-🔧 Skills
+
+**🔧 Skills**
 
 Python (pandas, numpy, statsmodels, FastAPI) • R • SQL
 Econometrics • Time Series • Machine Learning
 Backtesting • Statistical Modeling • Forecasting
 
-🎯 Focus
+**🎯 Focus**
 Systematic trading & quantitative research
 Causal inference in economic and healthcare settings
 ML-driven signal generation and agent systems
