@@ -8,13 +8,15 @@ I focus on applying economic theory and econometric methods to real-world proble
 Algorithmic Trading Strategies 
 
 [ORB-based systems with ATR risk management, backtesting frameworks, and factor analysis](https://github.com/BearcatJones1999)
+
 Market Intelligence Agent 
 
 [FastAPI-based system integrating news sentiment, ARIMA forecasting, and AI-generated analysis](https://github.com/BearcatJones1999)
+
 Quant Research (IMC Competitions)
 
-Signal development using momentum, order book imbalance, and fair value modeling
-🔗 https://github.com/BearcatJones1999
+[Signal development using momentum, order book imbalance, and fair value modeling](https://github.com/BearcatJones1999)
+
 🔬 Research Interests
 Causal Econometrics (treatment effects, identification, policy analysis)
 Healthcare Analytics & Productivity Modeling
