@@ -8,7 +8,7 @@ I focus on applying economic theory and econometric methods to real-world proble
 
 Algorithmic Trading Strategies 
 
-[ORB-based systems with ATR risk management, backtesting frameworks, and factor analysis]([https://github.com/BearcatJones1999](https://github.com/BearcatJones1999/ORB-ATR-Strategy)
+[ORB-based systems with ATR risk management, backtesting frameworks, and factor analysis](https://github.com/BearcatJones1999/ORB-ATR-Strategy)
 
 Market Intelligence Agent 
 
