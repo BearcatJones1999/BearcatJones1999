@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Colton Jones
 
-<!--
-**BearcatJones1999/BearcatJones1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Economics MS | Quant Finance | ML & Agent Systems
 
-Here are some ideas to get you started:
+I build models at the intersection of economics, econometrics, and quantitative finance, with a focus on translating theory into data-driven trading strategies and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+Algorithmic Trading – ORB strategies with ATR-based risk management, backtesting, and factor analysis
+Quant Research (IMC) – Signal development using momentum, order book imbalance, and fair value modeling
+Market Intelligence Agent – FastAPI system combining news sentiment, time series forecasting (ARIMA), and AI-generated insights
+🔧 Skills
+
+Python (pandas, numpy, statsmodels, FastAPI) • R • SQL
+Econometrics • Time Series • Machine Learning
+Backtesting • Statistical Modeling • Forecasting
+
+🎯 Focus
+Systematic trading & market microstructure
+Applied econometrics in financial markets
+ML-driven signal generation
+Agent-based systems for market intelligence
