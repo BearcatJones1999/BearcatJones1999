@@ -4,7 +4,7 @@ Applied Economics MS | Quant Finance | Econometrics & Causal ML
 
 I focus on applying economic theory and econometric methods to real-world problems in financial markets and healthcare systems. My work centers on building quantitative models, trading strategies, and agent-based systems that combine statistical rigor with practical implementation.
 
-**🚀 Projects**
+**🚀 Projects Examples**
 
 Algorithmic Trading Strategies 
 
