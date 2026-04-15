@@ -30,7 +30,7 @@ Market Microstructure & Signal Extraction
 
 **🔧 Skills**
 
-Python (pandas, numpy, statsmodels, FastAPI) • R • SQL
+Python • R • SQL
 Econometrics • Time Series • Machine Learning
 Backtesting • Statistical Modeling • Forecasting
 
