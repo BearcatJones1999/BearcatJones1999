@@ -2,7 +2,7 @@
 
 **Applied Economics MS** · Quantitative Finance · Econometrics & Causal ML
 
-I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application — with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
+I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
 
 ---
 
@@ -30,7 +30,7 @@ Signal development research covering momentum strategies, order book imbalance, 
 
 ## Toolkit
 
-`Python` · `R` · `SQL` · `FastAPI`
+`Python` · `R` · `SQL` 
 Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting
 
 ---
