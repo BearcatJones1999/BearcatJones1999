@@ -6,7 +6,7 @@ I focus on applying economic theory and econometric methods to real-world proble
 
 **🚀 Projects Examples**
 
-Algorithmic Trading Strategies 
+Algorithmic Trading Strategies & Tools
 
 [ORB-based systems with ATR risk management, backtesting frameworks, and factor analysis](https://github.com/BearcatJones1999/ORB-ATR-Strategy)
 
@@ -31,8 +31,7 @@ Market Microstructure & Signal Extraction
 **🔧 Skills**
 
 Python • R • SQL
-Econometrics • Time Series • Machine Learning
-Backtesting • Statistical Modeling • Forecasting
+Econometrics • Time Series • Machine Learning Systems • Statistical Modeling • Forecasting
 
 **🎯 Focus**
 Systematic trading & quantitative research
