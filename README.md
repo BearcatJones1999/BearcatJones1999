@@ -1,39 +1,40 @@
-👋 Colton Jones
+# Colton Jones
 
-Applied Economics MS | Quant Finance | Econometrics & Causal ML
+**Applied Economics MS** · Quantitative Finance · Econometrics & Causal ML
 
-I focus on applying economic theory and econometric methods to real-world problems in financial markets and healthcare systems. My work centers on building quantitative models, trading strategies, and agent-based systems that combine statistical rigor with practical implementation.
+I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application — with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
 
-**🚀 Projects Examples**
+---
 
-Algorithmic Trading Strategies & Tools
+## Featured Projects
 
-[ORB-based systems with ATR risk management, backtesting frameworks, and factor analysis](https://github.com/BearcatJones1999/ORB-ATR-Strategy)
+**[ORB-ATR Strategy](https://github.com/BearcatJones1999/ORB-ATR-Strategy)** — Algorithmic Trading
+Opening Range Breakout systems with ATR-based risk management, a modular backtesting framework, and factor analysis tooling.
 
-Market Intelligence Agent 
+**[Market Intelligence Agent](https://github.com/BearcatJones1999/Market_Intelligence_Agent)** — AI + Quant Research
+FastAPI service that fuses news sentiment, ARIMA forecasting, and LLM-generated analysis into a unified market intelligence pipeline.
 
-[FastAPI-based system integrating news sentiment, ARIMA forecasting, and AI-generated analysis](https://github.com/BearcatJones1999//Market_Intelligence_Agent)
+**[Prosp3](https://github.com/BearcatJones1999/Prosp3)** — IMC Prosperity Competition
+Signal development research covering momentum strategies, order book imbalance, and fair value modeling for market making.
 
-Quant Research (IMC Competitions)
+---
 
-[Signal development using momentum, order book imbalance, and fair value modeling](https://github.com/BearcatJones1999/Prosp3)
+## Research Interests
 
-**🔬 Research Interests**
+- **Causal Econometrics** — treatment effects, identification strategies, policy analysis
+- **Healthcare Analytics** — productivity modeling and systems-level evaluation
+- **Financial Econometrics** — time series methods and volatility modeling
+- **Market Microstructure** — signal extraction and execution research
 
-Causal Econometrics (treatment effects, identification, policy analysis)
+---
 
-Healthcare Analytics & Productivity Modeling
+## Toolkit
 
-Time Series & Financial Econometrics
+`Python` · `R` · `SQL` · `FastAPI`
+Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting
 
-Market Microstructure & Signal Extraction
+---
 
-**🔧 Skills**
+## Currently Focused On
 
-Python • R • SQL
-Econometrics • Time Series • Machine Learning Systems • Statistical Modeling • Forecasting
-
-**🎯 Focus**
-Systematic trading & quantitative research
-Causal inference in economic and healthcare settings
-ML-driven signal generation and agent systems
+Systematic trading strategies, causal inference applied to economic and healthcare outcomes, and ML-driven signal generation through agent-based systems.
