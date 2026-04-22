@@ -2,11 +2,16 @@
 
 **Applied Economics MS** · Quantitative Finance · Econometrics & Causal ML
 
-I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
+I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application — with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
+
+📫 **[LinkedIn](https://www.linkedin.com/in/coltonjones/)**
 
 ---
 
 ## Featured Projects
+
+**[Stock Price ML](https://github.com/BearcatJones1999/stock_price_ML_project)** — Machine Learning for Markets
+End-to-end machine learning pipeline for equity price prediction, covering feature engineering, model training, and performance evaluation.
 
 **[ORB-ATR Strategy](https://github.com/BearcatJones1999/ORB-ATR-Strategy)** — Algorithmic Trading
 Opening Range Breakout systems with ATR-based risk management, a modular backtesting framework, and factor analysis tooling.
@@ -38,3 +43,14 @@ Econometrics · Time Series · Causal Inference · Machine Learning · Forecasti
 ## Currently Focused On
 
 Systematic trading strategies, causal inference applied to economic and healthcare outcomes, and ML-driven signal generation through agent-based systems.
+
+## Currently Reading
+
+- *How Machines Learn* — Anil Ananthaswamy
+- *The Elements of Quantitative Investing* — Giuseppe "Gappy" Paleologo
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BearcatJones1999&layout=compact&theme=default&hide_border=true)
