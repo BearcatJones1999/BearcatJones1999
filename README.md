@@ -25,7 +25,7 @@ Signal development research covering momentum strategies, order book imbalance, 
 ---
 
 ## Research Interests
-
+- **Machine Learning** — feature engineering and performance relative to econometric methods
 - **Causal Econometrics** — treatment effects, identification strategies, policy analysis
 - **Healthcare Analytics** — productivity modeling and systems-level evaluation
 - **Financial Econometrics** — time series methods and volatility modeling
@@ -35,8 +35,8 @@ Signal development research covering momentum strategies, order book imbalance, 
 
 ## Toolkit
 
-`Python` · `R` · `SQL` · `FastAPI`
-Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting
+`Python` · `R` · `SQL` · `FastAPI` · `Quarto` · `Streamlit`
+Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting · Dashboard Construction
 
 ---
 
