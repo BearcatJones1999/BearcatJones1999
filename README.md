@@ -35,7 +35,7 @@ Signal development research covering momentum strategies, order book imbalance, 
 
 ## Toolkit
 
-`Python` · `R` · `SQL` · `FastAPI` · `Quarto` · `Streamlit`
+`Python` · `R` · `SQL` · `FastAPI` · `Quarto` · `Streamlit` · `Claude Code` · `Codex`
 
 Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting · Dashboard Construction
 
