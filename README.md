@@ -47,7 +47,7 @@ Systematic trading strategies, causal inference applied to economic and healthca
 
 ## Currently Reading
 
-- *How Machines Learn* — Anil Ananthaswamy
+- *Causal Inference for The Brave and True* — Matheus Facure
 - *The Elements of Quantitative Investing* — Giuseppe "Gappy" Paleologo
 
 ---
