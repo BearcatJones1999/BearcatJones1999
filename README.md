@@ -47,9 +47,9 @@ Systematic trading strategies, causal inference applied to economic and healthca
 
 ## Currently Reading
 
-- *Causal Inference for The Brave and True* — Matheus Facure
+- *Causal Inference for The Brave and True* - Matheus Facure
 - *Good Economics for Hard Times* - Abhijit V.Banerjee & Esther Duflo
-- *The Elements of Quantitative Investing* — Giuseppe "Gappy" Paleologo
+- *The Elements of Quantitative Investing* - Giuseppe "Gappy" Paleologo
 
 ---
 
