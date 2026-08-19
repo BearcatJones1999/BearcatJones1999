@@ -57,7 +57,3 @@ Econometrics · Time Series · Causal Inference · Machine Learning · Forecasti
 - *Capital in the Twenty-First Century* - Thomas Piketty
 
 ---
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BearcatJones1999&layout=compact&theme=default&hide_border=true&cache_seconds=86400)
