@@ -51,9 +51,6 @@ Econometrics · Time Series · Causal Inference · Machine Learning · Forecasti
 
 ---
 
-## Currently Focused On
-Systematic trading strategies, causal inference applied to economic and healthcare outcomes, and ML-driven signal generation through agent-based systems.
-
 ## Currently Reading
 - *Causal Inference for The Brave and True* - Matheus Facure
 - *Dungeon Crawler Carl Series* - Matt Dinniman
