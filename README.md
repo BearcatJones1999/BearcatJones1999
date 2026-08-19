@@ -21,8 +21,14 @@ Opening Range Breakout systems with ATR-based risk management, a modular backtes
 **[Market Intelligence Agent](https://github.com/BearcatJones1999/Market_Intelligence_Agent)** - AI + Quant Research
 FastAPI service that fuses news sentiment, ARIMA forecasting, and LLM-generated analysis into a unified market intelligence pipeline.
 
-**[Prosp3](https://github.com/BearcatJones1999/Prosp3)** - IMC Prosperity Competition
-Signal development research covering momentum strategies, order book imbalance, and fair value modeling for market making.
+---
+
+## Applied Healthcare Analytics
+
+Econometric and business-intelligence work as a Financial Analyst at Cincinnati Children's Hospital Medical Center, applying quantitative methods to real health-system operations.
+
+- **Hospital Efficiency Study** - Fixed-effects regression estimating labor-to-volume elasticities across 50+ hospitals, presented to executive leadership to inform productivity strategy.
+- **Productivity Planning** - Multi-business-unit target and weighting frameworks, including data workflows managed through various enterprise software systems.
 
 ---
 
@@ -39,7 +45,7 @@ Signal development research covering momentum strategies, order book imbalance, 
 
 ## Toolkit
 
-`Python` · `R` · `SQL` · `FastAPI` · `Quarto` · `Streamlit` · `Claude Code` · `Codex`
+`Python` · `R` · `SQL` · `Power BI` · `FastAPI` · `Quarto` · `Streamlit` · `Claude Code` · `Codex`
 
 Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting · Dashboard Construction
 
