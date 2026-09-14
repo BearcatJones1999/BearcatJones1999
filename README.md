@@ -19,7 +19,7 @@ End-to-end machine learning pipeline for equity price prediction, covering featu
 Opening Range Breakout systems with ATR-based risk management, a modular backtesting framework, and factor analysis tooling.
 
 **[Market Intelligence Agent](https://github.com/BearcatJones1999/Market_Intelligence_Agent)** - AI + Quant Research
-FastAPI service that fuses news sentiment, ARIMA forecasting, and LLM-generated analysis into a unified market intelligence pipeline.
+Utilizing Claude and ChatGPT API, armed with FastAPI service that fuses news sentiment, ARIMA forecasting, and LLM-generated analysis into a unified market intelligence pipeline.
 
 ---
 
