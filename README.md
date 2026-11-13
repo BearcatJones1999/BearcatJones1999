@@ -34,7 +34,7 @@ FastAPI service that combines news sentiment, ARIMA forecasting, and LLM analysi
 
 - 🏆 **Top 13%** of ~18,800 teams in the IMC Prosperity algorithmic trading competition
 - 🎓 **Kautz-Uible Scholar**, M.S. Applied Economics with a Graduate Certificate in Quantitative Finance, University of Cincinnati (3.9 GPA)
-- 📊 Econometric research presented to C-suite leadership at Cincinnati Children's Hospital Medical Center
+- 📊 Econometric & Financial research presented to C-suite leadership at Cincinnati Children's Hospital Medical Center
 
 ---
 
