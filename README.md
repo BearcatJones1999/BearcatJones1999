@@ -9,6 +9,9 @@ I build quantitative models, trading systems, and agent-based tools that bridge 
 
 ## Featured Projects
 
+**[Inpatient Volume Forecasting](https://github.com/BearcatJones1999/Ensemble_IP_Volume_Forecasting)** - Healthcare Time Series & Ensemble Methods
+Production forecasting system for hospital inpatient units at Cincinnati Children's, combining seasonal naive, ARIMA, ETS, and Prophet models through unit-specific inverse-MAPE weights. Validated on a blind FY26 holdout, where it delivered materially lower error than the traditional budgeting process, and now tracked monthly against budget and actuals through FY27 via Power BI.
+
 **[Cincinnati Hedonic Pricing Model](https://github.com/BearcatJones1999/juncta_juvant)** - Real Estate Econometrics
 Full-stack residential valuation model for Hamilton County, combining econometric methods (OLS with fixed effects, spatial lag/error, quantile regression) with machine learning (XGBoost, Random Forest, LASSO, stacked ensemble) on 79,000+ arm's-length sales from 2018 to 2025. Ships a Streamlit dashboard for property valuation, neighborhood heatmaps, and comparable sales analysis.
 
