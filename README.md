@@ -3,6 +3,8 @@
 
 I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application, with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
 
+> **79K+** home sales modeled · **50+** hospitals benchmarked · **Production forecasts** outperforming budget at Cincinnati Children's
+
 📫 **[LinkedIn](https://www.linkedin.com/in/coltonjones/)**
 
 ---
@@ -15,6 +17,8 @@ Production forecasting system for hospital inpatient units at Cincinnati Childre
 **[Cincinnati Hedonic Pricing Model](https://github.com/BearcatJones1999/juncta_juvant)** - Real Estate Econometrics
 Full-stack residential valuation model for Hamilton County, combining econometric methods (OLS with fixed effects, spatial lag/error, quantile regression) with machine learning (XGBoost, Random Forest, LASSO, stacked ensemble) on 79,000+ arm's-length sales from 2018 to 2025. Ships a Streamlit dashboard for property valuation, neighborhood heatmaps, and comparable sales analysis.
 
+<!-- Drop a dashboard screenshot or GIF here: drag the image into the GitHub editor and it will insert the link -->
+
 **[Stock Price ML](https://github.com/BearcatJones1999/stock_price_ML_project)** - Machine Learning for Markets
 End-to-end machine learning pipeline for equity price prediction, covering feature engineering, model training, and performance evaluation.
 
@@ -22,7 +26,15 @@ End-to-end machine learning pipeline for equity price prediction, covering featu
 Opening Range Breakout systems with ATR-based risk management, a modular backtesting framework, and factor analysis tooling.
 
 **[Market Intelligence Agent](https://github.com/BearcatJones1999/Market_Intelligence_Agent)** - AI + Quant Research
-Utilizing Claude and ChatGPT API, armed with FastAPI service that fuses news sentiment, ARIMA forecasting, and LLM-generated analysis into a unified market intelligence pipeline.
+FastAPI service that combines news sentiment, ARIMA forecasting, and LLM analysis (Claude and OpenAI APIs) into a single market intelligence pipeline.
+
+---
+
+## Highlights
+
+- 🏆 **Top 13%** of ~18,800 teams in the IMC Prosperity algorithmic trading competition
+- 🎓 **Kautz-Uible Scholar**, M.S. Applied Economics with a Graduate Certificate in Quantitative Finance, University of Cincinnati (3.9 GPA)
+- 📊 Econometric research presented to C-suite leadership at Cincinnati Children's Hospital Medical Center
 
 ---
 
@@ -48,7 +60,15 @@ Econometric and business-intelligence work as a Financial Analyst at Cincinnati 
 
 ## Toolkit
 
-`Python` · `R` · `SQL` · `Power BI` · `FastAPI` · `Quarto` · `Streamlit` · `Claude Code` · `Codex`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?logo=quarto&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?logoColor=white)
 
 Econometrics · Time Series · Causal Inference · Machine Learning · Forecasting · Backtesting · Dashboard Construction
 
@@ -60,3 +80,5 @@ Econometrics · Time Series · Causal Inference · Machine Learning · Forecasti
 - *Capital in the Twenty-First Century* - Thomas Piketty
 
 ---
+
+*Outside of work: teaching kids economics and game theory through Adopt a Class, and speaking German whenever I get the chance.* 🇩🇪
