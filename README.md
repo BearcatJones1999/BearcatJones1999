@@ -3,7 +3,7 @@
 
 I build quantitative models, trading systems, and agent-based tools that bridge economic theory and real-world application, with a focus on financial markets and healthcare systems. My work emphasizes statistical rigor paired with production-ready implementation.
 
-> **79K+** home sales modeled · **50+** hospitals benchmarked · **Production forecasts** outperforming budget at Cincinnati Children's
+> **79K+** home sales modeled · **50+** hospitals benchmarked · **Volume forecasts** improving on traditional methods at Cincinnati Children's
 
 📫 **[LinkedIn](https://www.linkedin.com/in/coltonjones/)**
 
